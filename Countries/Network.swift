@@ -1,5 +1,5 @@
 //
-//  NetworkError.swift
+//  Network.swift
 //  Countries
 //
 //  Created by Daniel Pietsch on 4/25/25.
